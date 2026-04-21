@@ -1,0 +1,3 @@
+- only run the league_tables_eiq_edition to update the web tool
+- need to update this whenever there is an facility, ANREAU, market, broker data update
+- the issuance and registrations files are the same from the supply viewer files(which needs to run whenever there is an ERF or CAC update)
